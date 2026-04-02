@@ -31,6 +31,8 @@ Export your Banner schedule to ICS (universal online Calander Format) in one cli
 ### \* = not tested
 
 ## Common Issues
+* The **Export Schedule** doesn't show up
+    * Verify Step 2 of the installation process / User Scripts are enabled on the Chrome Extension Page
 * The Courses Will Start On The Current Week
     * Make Sure You're Using V2 and are on the main branch
 
