@@ -29,8 +29,7 @@ Export your Banner schedule to ICS (universal online Calander Format) in one cli
 6. Import into:
 - Apple Calendar 
 - Google Calendar
-- *Outlook**
-### \* = not tested
+- Outlook
 
 ## Common Issues
 * The **Export Schedule** button doesn't show up
