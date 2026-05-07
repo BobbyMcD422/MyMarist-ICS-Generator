@@ -1,5 +1,8 @@
-*I was going to keep the code completely commentted but it got out of hand*
+# Version 3
+Check the <b>[Hackathon S26](https://github.com/BobbyMcD422/hackS26)</b> repo for Version 3 info / source code.
+---
 # Version 2
+*I was going to keep the code completely commentted but it got out of hand*
 ## Goal
     Send a request for correct dates and location PER Course
 ## How To Implement:
