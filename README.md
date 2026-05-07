@@ -1,7 +1,10 @@
 # MyMarist-ICS-Generator
 Export your Banner schedule to ICS (universal online Calander Format) in one click.\
-<b><i> ` VERSION 3 COMING SOON (Chrome Extension) `</i></b> 
+# <i>VERSION 3 NOW AVAILABLE</i> 
+[CLICK HERE TO DOWNLOAD CHROME EXTENSION](https://chromewebstore.google.com/detail/fnemcagdbdghcnlojeddjpipjoepccbk?utm_source=item-share-cb)
 
+
+# VERSION 2 - <i>`(Deprecated)`</i>
 ## Installation
 1. Install Tampermonkey
 2. Enable User Scripts in Chrome Extension Page
