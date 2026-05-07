@@ -1,10 +1,21 @@
 # MyMarist-ICS-Generator
-Export your Banner schedule to ICS (universal online Calander Format) in one click.\
-# <i>VERSION 3 NOW AVAILABLE</i> 
-[CLICK HERE TO DOWNLOAD CHROME EXTENSION](https://chromewebstore.google.com/detail/fnemcagdbdghcnlojeddjpipjoepccbk?utm_source=item-share-cb)
+### Export your Banner schedule to ICS (universal online Calander Format) in one click.
+# <i>VERSION 3 NOW AVAILABLE</i>
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/fnemcagdbdghcnlojeddjpipjoepccbk?utm_source=item-share-cb">
+    <img
+      src="https://img.shields.io/badge/Install-Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Install Chrome Extension"
+      height="48"
+    >
+  </a>
+</p>
 
+![Extension Image](./assets/extension.png)
 
-# VERSION 2 - <i>`(Deprecated)`</i>
+---
+# <i>`(Deprecated)`</i>
+# VERSION 2
 ## Installation
 1. Install Tampermonkey
 2. Enable User Scripts in Chrome Extension Page
