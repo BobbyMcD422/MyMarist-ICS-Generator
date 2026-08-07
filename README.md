@@ -1,3 +1,4 @@
+*Version 4 coming soon with multi-university support (SUNY Poly, SUNY Ulster, etc.)…*
 # MyMarist-ICS-Generator
 ### Export your Banner schedule to ICS (universal online Calander Format) in one click.
 # <i>VERSION 3 NOW AVAILABLE</i>
