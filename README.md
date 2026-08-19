@@ -1,4 +1,4 @@
-* Changelog has been moved to the Chrome Extension Page for all Future Updates *
+*Changelog has been moved to the Chrome Extension Page for all Future Updates*
 # MyMarist-ICS-Generator
 ### Export your Banner schedule to ICS (universal online Calander Format) in one click.
 # <i>VERSION 3 NOW AVAILABLE</i>
